@@ -92,6 +92,6 @@ tensorboard --logdir_spec exp_name
 
 Especially thanks to:
 
-* Team Openvpi's maintenance: [DiffSinger](https://github.com/openvpi/DiffSinger).
+* Team 大市唱's maintenance: [DiffSinger](https://github.com/Team-ClosedVPI/DiffSinger).
 * Your re-creation and sharing.
     
